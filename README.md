@@ -1,0 +1,1 @@
+this is a decentralised crowdfunding platform where we contribute funds in form of ethers and if minimum funds are not raised we can distribute funds back
